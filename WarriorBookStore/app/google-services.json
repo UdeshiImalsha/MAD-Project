@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093816233870",
+    "project_id": "warriorbookstore",
+    "storage_bucket": "warriorbookstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093816233870:android:fd0e179911bcae9472fedf",
+        "android_client_info": {
+          "package_name": "com.example.warriorbookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093816233870-525p1u7uc11nbp3bhv3lpu4d6cnc0vt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmcgIOVZVwuw6-dF6X-Jhi33Xb6VS4YyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093816233870-525p1u7uc11nbp3bhv3lpu4d6cnc0vt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
